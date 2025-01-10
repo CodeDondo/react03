@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <Header className="reset"> 
+      <Header className="style.reset"> 
         <h1>Velkommen</h1>
       </Header>
       <Main> 
